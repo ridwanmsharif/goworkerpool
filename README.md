@@ -4,12 +4,6 @@ Simple implementation of a worker pool with access to limiting parallel treading
 A firm believer that Go's channels and goroutines are the most competent tools to equip oneself with when dealing with concurrency.
 And so inspired by [A Case for Go Worker Pool](https://brandur.org/go-worker-pool), I believe it to be useful to satisfy this need for a library.
 
-## TODO
-
-+ Create a pool.go module to distribute tasks and use the library
-+ Write tests
-+ Write instructions for setup and use
-+ Give examples of usage 
 
 ## Disclaimer
 
